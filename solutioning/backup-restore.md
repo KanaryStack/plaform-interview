@@ -1,0 +1,2 @@
+- Operator wants to adopt disaster recovery tool in kubernetes cluster.
+    - https://velero.io/
